@@ -1,5 +1,7 @@
 # 💫 About Me:
-Computer Science Specialist at the University of Toronto with hands-on experience in software development from software design to deployment, and system optimization. Skilled in Java, Python, JavaScript, and SQL, focusing on building efficient, scalable applications.<br><br>International Merit Scholar | AI Focus   Continuously learning and pushing boundaries through personal projects, collaborative development, and emerging technologies.  Check out my portfolio at: https://gurmanat-kahlon-portfolio.base44.app
+Computer Science Specialist at the University of Toronto with hands-on experience in software development from software design to deployment, and system optimization. Skilled in Java, Python, JavaScript, and SQL, focusing on building efficient, scalable applications.<br><br>International Merit Scholar | AI Focus   
+Continuously learning and pushing boundaries through personal projects, collaborative development, and emerging technologies.  
+Check out my portfolio at: https://gurmanat-kahlon-portfolio.base44.app
 
 
 ## 🌐 Socials:
